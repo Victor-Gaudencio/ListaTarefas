@@ -6,10 +6,8 @@ Aplicação web para cadastro e gerenciamento de tarefas, desenvolvida em React 
 
 - Adicionar tarefas
 - [Editar tarefas]
-- [Marcar tarefas como concluídas]
 - [Excluir tarefas]
 
-> Mantenha apenas as funções que o seu projeto realmente tem.
 
 ## Tecnologias
 
