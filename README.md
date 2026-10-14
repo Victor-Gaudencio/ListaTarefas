@@ -37,12 +37,7 @@ npm run dev
 
 Depois, abra o endereço que aparecer no terminal (geralmente `http://localhost:5173`).
 
-## Imagens
-
-[Adicione aqui uma captura de tela do projeto. Ex.: `![Tela inicial](./imagens/tela-inicial.png)`]
-
 ## Autor
 
-Victor [Sobrenome]
+Victor Gaudencio
 Estudante de Ciência da Computação (IFNMG) e técnico em Análise e Desenvolvimento de Sistemas
-[LinkedIn ou e-mail]
