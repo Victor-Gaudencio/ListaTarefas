@@ -83,8 +83,8 @@ function App() {
               <button onClick={() => {editarTarefa(tarefa.id)}}>Salvar</button>
             </div> : <></>
           }
-          <button onClick={() => abrirEditar(tarefa)}>e</button>
-          <button onClick={() => apagarItem(tarefa)}>x</button>
+          <button onClick={() => abrirEditar(tarefa)}>Editar</button>
+          <button onClick={() => apagarItem(tarefa)}>Excluir</button>
           </li>
         ))}
       </ul>
