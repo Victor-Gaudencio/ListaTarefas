@@ -1,12 +1,50 @@
-# React + Vite
+# Lista de Tarefas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicação web para cadastro e gerenciamento de tarefas, desenvolvida em React como projeto do Curso Técnico em Análise e Desenvolvimento de Sistemas.
 
-Currently, two official plugins are available:
+## Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Adicionar tarefas
+- [Editar tarefas]
+- [Marcar tarefas como concluídas]
+- [Excluir tarefas]
 
-## Expanding the ESLint configuration
+> Mantenha apenas as funções que o seu projeto realmente tem.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tecnologias
+
+- React
+- Vite
+- JavaScript
+- HTML
+- CSS
+
+## Como executar
+
+Pré-requisito: [Node.js](https://nodejs.org) instalado.
+
+```bash
+# clonar o repositório
+git clone https://github.com/[seu-usuario]/ListaTarefas.git
+
+# entrar na pasta do projeto
+cd ListaTarefas
+
+# instalar as dependências
+npm install
+
+# iniciar o projeto
+npm run dev
+```
+
+Depois, abra o endereço que aparecer no terminal (geralmente `http://localhost:5173`).
+
+## Imagens
+
+[Adicione aqui uma captura de tela do projeto. Ex.: `![Tela inicial](./imagens/tela-inicial.png)`]
+
+## Autor
+
+Victor [Sobrenome]
+Estudante de Ciência da Computação (IFNMG) e técnico em Análise e Desenvolvimento de Sistemas
+[LinkedIn ou e-mail]
